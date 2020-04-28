@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extended_storage:block/emerald_chest"
+    },
+    "facing=south": {
+      "model": "extended_storage:block/emerald_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extended_storage:block/emerald_chest",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "extended_storage:block/emerald_chest",
+      "y": 90
+    }
+  }
+}

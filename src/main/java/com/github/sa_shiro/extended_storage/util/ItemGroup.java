@@ -8,7 +8,7 @@ public class ItemGroup {
         // TODO: change ItemGroup Icon
         @Override
         public ItemStack createIcon() {
-            return new ItemStack(Blocks.STONE);
+            return new ItemStack(Blocks.CHEST);
         }
 
         @Override

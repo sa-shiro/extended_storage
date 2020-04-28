@@ -1,3 +1,15 @@
 {
-  "itemGroup.extended_storage": "Extended Storage"
+  "itemGroup.extended_storage": "Extended Storage",
+  "container.iron_chest": "Iron Chest",
+  "container.gold_chest": "Gold Chest",
+  "container.diamond_chest": "Diamond Chest",
+  "container.obsidian_chest": "Obsidian Chest",
+  "container.emerald_chest": "Emerald Chest",
+  "container.dragon_chest": "Dragon Chest",
+  "block.extended_storage.iron_chest": "Iron Chest",
+  "block.extended_storage.gold_chest": "Gold Chest",
+  "block.extended_storage.diamond_chest": "Diamond Chest",
+  "block.extended_storage.obsidian_chest": "Obsidian Chest",
+  "block.extended_storage.emerald_chest": "Emerald Chest",
+  "block.extended_storage.dragon_chest": "Dragon Chest"
 }
